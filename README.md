@@ -1,0 +1,2 @@
+# wowdor-safelink
+penghubung javascript
